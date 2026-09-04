@@ -7,7 +7,7 @@ about:
   head: a49cc54
   archived: false
   latestVersion: v0.6.0
-  collectedAt: 2026-09-04T19:44:22Z
+  collectedAt: 2026-09-04T20:50:30Z
 timeline:
   created: 2022-02-20
   lastCommit: 2026-07-21
@@ -80,5 +80,23 @@ total:
   openIssue: 0
   commit: 106
 ---
+path: /home/runner/.x-repo/github.com/mrusme/reader
+collectedAt: 2026-09-04T20:50:31Z
+loc:
+  Go:
+    code: 574
+    comments: 0
+    blanks: 112
+    files: 3
+  Markdown:
+    code: 0
+    comments: 126
+    blanks: 46
+    files: 1
+total:
+  code: 574
+  comments: 126
+  blanks: 158
+  files: 4
 ---
 

@@ -7,7 +7,7 @@ reader is for your command line what the “readability” view is for modern br
 - **Latest release**: `v0.6.0` (2026-07-20)
 - **Last commit**: 2026-07-21
 - **License**: NOASSERTION
-- **Stars**: 412 · **Forks**: 16 · **Open issues**: 0 · **Contributors**: 3
+- **Stars**: 413 · **Forks**: 16 · **Open issues**: 0 · **Contributors**: 3
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/reader> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:19:07Z._
+_Last regenerated: 2026-09-09T05:24:14Z._

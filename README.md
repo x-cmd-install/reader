@@ -12,6 +12,15 @@ reader is for your command line what the “readability” view is for modern br
 x install reader
 ```
 
+## Code insight
+
+Total: **1,244** lines of code across **12** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 1,244 | 0 | 266 | 11 |
+| Markdown | 0 | 129 | 47 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/mrusme/reader>
@@ -21,9 +30,8 @@ x install reader
 ## Release
 
 - **Latest**: `v0.6.0` (2026-07-20)
-- **Last commit**: 2026-07-21
+- **Last commit**: 2026-09-10
 - **Assets in release**: 41
-- **Published**: 2026-07-20T22:13:35Z
 
 ## Popularity
 
@@ -31,32 +39,82 @@ x install reader
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 106
+- **Releases**: 17 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 7 |
-| 360d | 2025-09-15 | 1 | 0 | 0 | 0 | 0 | 10 |
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 9 |
+| 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 9 |
+| last180d | 2026-03-14 | 1 | 0 | 0 | 0 | 0 | 9 |
+| 360d | 2025-09-15 | 1 | 0 | 0 | 0 | 0 | 12 |
+| last720d | 2024-09-20 | 4 | 0 | 0 | 0 | 0 | 31 |
 
-## Code size
+## Release assets
 
-Total: **574** lines of code across **4** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/mrusme/reader/releases/download/v0.6.0/checksums.txt) | 3.9 KiB | `other` |
+| [reader_0.6.0_aix_ppc64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_aix_ppc64.tar.gz) | 9.6 MiB | `native/unknown` |
+| [reader_0.6.0_darwin_amd64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_darwin_amd64.tar.gz) | 9.9 MiB | `native/darwin/x64` |
+| [reader_0.6.0_darwin_arm64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_darwin_arm64.tar.gz) | 9.3 MiB | `native/darwin/arm64` |
+| [reader_0.6.0_dragonfly_amd64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_dragonfly_amd64.tar.gz) | 9.6 MiB | `native/linux/x64` |
+| [reader_0.6.0_freebsd_386.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_freebsd_386.tar.gz) | 9.2 MiB | `native/unknown` |
+| [reader_0.6.0_freebsd_amd64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_freebsd_amd64.tar.gz) | 9.7 MiB | `native/linux/x64` |
+| [reader_0.6.0_freebsd_arm64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_freebsd_arm64.tar.gz) | 8.9 MiB | `native/linux/arm64` |
+| [reader_0.6.0_freebsd_armv6.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_freebsd_armv6.tar.gz) | 9.3 MiB | `native/linux/arm` |
+| [reader_0.6.0_freebsd_armv7.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_freebsd_armv7.tar.gz) | 9.3 MiB | `native/linux/arm` |
+| [reader_0.6.0_illumos_amd64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_illumos_amd64.tar.gz) | 9.6 MiB | `native/linux/x64` |
+| [reader_0.6.0_linux_386.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_386.tar.gz) | 9.3 MiB | `native/unknown` |
+| [reader_0.6.0_linux_amd64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_amd64.tar.gz) | 9.7 MiB | `native/linux/x64` |
+| [reader_0.6.0_linux_arm64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_arm64.tar.gz) | 8.9 MiB | `native/linux/arm64` |
+| [reader_0.6.0_linux_armv6.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_armv6.tar.gz) | 9.3 MiB | `native/linux/arm` |
+| [reader_0.6.0_linux_armv7.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_armv7.tar.gz) | 9.3 MiB | `native/linux/arm` |
+| [reader_0.6.0_linux_loong64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_loong64.tar.gz) | 9.2 MiB | `native/unknown` |
+| [reader_0.6.0_linux_mips.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_mips.tar.gz) | 8.8 MiB | `native/unknown` |
+| [reader_0.6.0_linux_mips64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_mips64.tar.gz) | 8.6 MiB | `native/unknown` |
+| [reader_0.6.0_linux_mips64le.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_mips64le.tar.gz) | 8.5 MiB | `native/unknown` |
+| [reader_0.6.0_linux_mipsle.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_mipsle.tar.gz) | 8.7 MiB | `native/unknown` |
+| [reader_0.6.0_linux_ppc64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_ppc64.tar.gz) | 8.9 MiB | `native/unknown` |
+| [reader_0.6.0_linux_ppc64le.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_ppc64le.tar.gz) | 9.0 MiB | `native/unknown` |
+| [reader_0.6.0_linux_riscv64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_riscv64.tar.gz) | 9.3 MiB | `native/linux/riscv64` |
+| [reader_0.6.0_linux_s390x.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_s390x.tar.gz) | 9.5 MiB | `native/unknown` |
+| [reader_0.6.0_netbsd_386.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_netbsd_386.tar.gz) | 9.2 MiB | `native/unknown` |
+| [reader_0.6.0_netbsd_amd64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_netbsd_amd64.tar.gz) | 9.6 MiB | `native/linux/x64` |
+| [reader_0.6.0_netbsd_arm64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_netbsd_arm64.tar.gz) | 8.8 MiB | `native/linux/arm64` |
+| [reader_0.6.0_netbsd_armv6.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_netbsd_armv6.tar.gz) | 9.2 MiB | `native/linux/arm` |
+| [reader_0.6.0_netbsd_armv7.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_netbsd_armv7.tar.gz) | 9.2 MiB | `native/linux/arm` |
+| [reader_0.6.0_openbsd_386.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_openbsd_386.tar.gz) | 9.2 MiB | `native/unknown` |
+| [reader_0.6.0_openbsd_amd64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_openbsd_amd64.tar.gz) | 9.6 MiB | `native/linux/x64` |
+| [reader_0.6.0_openbsd_arm64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_openbsd_arm64.tar.gz) | 8.8 MiB | `native/linux/arm64` |
+| [reader_0.6.0_openbsd_armv6.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_openbsd_armv6.tar.gz) | 9.2 MiB | `native/linux/arm` |
+| [reader_0.6.0_openbsd_armv7.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_openbsd_armv7.tar.gz) | 9.2 MiB | `native/linux/arm` |
+| [reader_0.6.0_openbsd_ppc64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_openbsd_ppc64.tar.gz) | 8.8 MiB | `native/unknown` |
+| [reader_0.6.0_openbsd_riscv64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_openbsd_riscv64.tar.gz) | 9.2 MiB | `native/linux/riscv64` |
+| [reader_0.6.0_solaris_amd64.tar.gz](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_solaris_amd64.tar.gz) | 9.6 MiB | `native/linux/x64` |
+| [reader_0.6.0_windows_386.zip](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_windows_386.zip) | 9.6 MiB | `native/win/x64` |
+| [reader_0.6.0_windows_amd64.zip](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_windows_amd64.zip) | 9.9 MiB | `native/win/x64` |
+| [reader_0.6.0_windows_arm64.zip](https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_windows_arm64.zip) | 8.9 MiB | `native/win/arm64` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 574 | 0 | 112 | 3 |
-| Markdown | 0 | 126 | 46 | 1 |
+## Distribution status
+
+Reported by **20** distros on [repology.org](https://repology.org/project/reader). **4** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.6.0` | ✅ latest |
+| Void | `0.6.0` | ✅ latest |
+| Alpine edge | `0.6.0` | ✅ latest |
 
 ## Improve this data
 
 Install metadata for reader lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `reader` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/reader.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/reader.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:19:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:45:02Z._

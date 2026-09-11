@@ -1,3 +1,25 @@
+- repo: nix_stable_25_11
+  srcname: reader
+  visiblename: reader
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - theobori@disroot.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: reader
+  visiblename: reader
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - theo1.bori@epitech.eu
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_19
   subrepo: community
   srcname: reader
@@ -24,17 +46,6 @@
     - me@adamthiede.com
   licenses:
     - GPL-3.0-only
-- repo: nix_unstable
-  srcname: reader
-  visiblename: reader
-  version: 0.6.0
-  origversion: null
-  status: newest
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - theobori@disroot.org
-  licenses:
-    - GPL-3.0-or-later
 - repo: alpine_3_21
   subrepo: community
   srcname: reader
@@ -127,7 +138,7 @@
 - repo: homebrew_casks
   srcname: reader
   visiblename: Readwise Reader
-  version: 0.1.3193
+  version: 0.1.3197
   origversion: null
   status: outdated
   summary: Save articles to read, highlight key content, and organise notes for review
@@ -142,28 +153,6 @@
     - theo1.bori@epitech.eu
   licenses:
     - GPL-3.0-or-later
-- repo: nix_stable_25_05
-  srcname: reader
-  visiblename: reader
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - theo1.bori@epitech.eu
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_11
-  srcname: reader
-  visiblename: reader
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - theobori@disroot.org
-  licenses:
-    - GPL-3.0-or-later
 - repo: nix_stable_26_05
   srcname: reader
   visiblename: reader
@@ -175,6 +164,29 @@
     - theobori@disroot.org
   licenses:
     - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: reader
+  visiblename: reader
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - theobori@disroot.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: openbsd
+  srcname: www/reader
+  binname: reader
+  visiblename: www/reader
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: lightweight tool offering better readability of web pages
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - www
 - repo: pkgsrc_2026_1
   srcname: www/reader
   binname: reader
@@ -224,15 +236,3 @@
     - git@yushi.one
   licenses:
     - GPL-3.0-or-later
-- repo: openbsd
-  srcname: www/reader
-  binname: reader
-  visiblename: www/reader
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: lightweight tool offering better readability of web pages
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - www

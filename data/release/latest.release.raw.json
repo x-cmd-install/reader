@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 10222465,
       "digest": "sha256:dd1af76325b237c28241344a89585acddc4e0dd4446b71c1d669354074c57258",
-      "download_count": 101,
+      "download_count": 103,
       "created_at": "2026-07-20T22:13:28Z",
       "updated_at": "2026-07-20T22:13:28Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.0/reader_0.6.0_linux_amd64.tar.gz"

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4929,
       "digest": "sha256:3adab3c0d0bdb2e35a0ef6b0a5e566b44b70713668d94e8be414a35c82e62558",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-04T13:04:52Z",
       "updated_at": "2026-10-04T13:04:53Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/checksums.txt"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10276845,
       "digest": "sha256:012491e2504551309b7804c219187296c944f13091e70c364a21dd3f368a5ee8",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-10-04T13:04:40Z",
       "updated_at": "2026-10-04T13:04:41Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 9808082,
       "digest": "sha256:9b5995ef79ca23f4f4bbfc90137c91b5a903ed1af670bc24125c7f29fa5b1f27",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-04T13:04:46Z",
       "updated_at": "2026-10-04T13:04:47Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_armv7.tar.gz"

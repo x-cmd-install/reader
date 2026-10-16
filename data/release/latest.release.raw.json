@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10148009,
       "digest": "sha256:581c4323a6ee628397e0db103f24669b01452d6756ff9212cd85bf0b7dfda593",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:43Z",
       "updated_at": "2026-10-04T13:04:43Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_dragonfly_amd64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10276845,
       "digest": "sha256:012491e2504551309b7804c219187296c944f13091e70c364a21dd3f368a5ee8",
-      "download_count": 55,
+      "download_count": 58,
       "created_at": "2026-10-04T13:04:40Z",
       "updated_at": "2026-10-04T13:04:41Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_amd64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 8957961,
       "digest": "sha256:235a99a96c49f6b1e84b273dc5e265eaa577a6f87614c1f75e8f4b51c608da5b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:43Z",
       "updated_at": "2026-10-04T13:04:43Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_mips64le_hardfloat.tar.gz"

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4929,
       "digest": "sha256:3adab3c0d0bdb2e35a0ef6b0a5e566b44b70713668d94e8be414a35c82e62558",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-04T13:04:52Z",
       "updated_at": "2026-10-04T13:04:53Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/checksums.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 9788026,
       "digest": "sha256:1e74c0fda364c67ef1c91d2bc2c484c65637fac83a4f977e3e7ff8b8f1cb760f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:52Z",
       "updated_at": "2026-10-04T13:04:52Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_freebsd_armv6.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10276845,
       "digest": "sha256:012491e2504551309b7804c219187296c944f13091e70c364a21dd3f368a5ee8",
-      "download_count": 58,
+      "download_count": 62,
       "created_at": "2026-10-04T13:04:40Z",
       "updated_at": "2026-10-04T13:04:41Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 9376997,
       "digest": "sha256:8c0a5db31344efc9fff57bc98e61b662fb65d959dcb3e45425d86b5f1215f6f6",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-04T13:04:48Z",
       "updated_at": "2026-10-04T13:04:49Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_arm64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 9811064,
       "digest": "sha256:384e3f9b14e13ca706acac7a7507dfc6456725706280bd1fa2cffca016f37f9b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:42Z",
       "updated_at": "2026-10-04T13:04:43Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_loong64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 8964817,
       "digest": "sha256:fa369ff3b7107a5ba887682cc3c09bf467c17161730bfe461b8562e8ab8d45b9",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:43Z",
       "updated_at": "2026-10-04T13:04:43Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_mips64le_softfloat.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 9018340,
       "digest": "sha256:b8230e0feae6caf631db1b2571b7f7e65f23380283f8defd95c2af9cdd81a7a5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:51Z",
       "updated_at": "2026-10-04T13:04:51Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_mips64_softfloat.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 9221951,
       "digest": "sha256:6fe9b037a79a51ee1043098ac64c2ebaf61c280629bb840156bd13774d2e025c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:45Z",
       "updated_at": "2026-10-04T13:04:45Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_linux_mipsle_softfloat.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 9709105,
       "digest": "sha256:c781b03d23533ada5fe37682e6cb34495f4a5e447326d9f97436b91685c514c6",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:50Z",
       "updated_at": "2026-10-04T13:04:51Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_netbsd_armv6.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 9682675,
       "digest": "sha256:c3d4d2b0bce92c8800022ec6c3fd68e7a77f6a153c17dd127b718b9fac1c3831",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:49Z",
       "updated_at": "2026-10-04T13:04:50Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_openbsd_386.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 10160652,
       "digest": "sha256:50e5cc8efa79946f7cb9be7134d3378cb11e0f89e35b426e95df8a3ac6aa0383",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:47Z",
       "updated_at": "2026-10-04T13:04:48Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_openbsd_amd64.tar.gz"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 9719715,
       "digest": "sha256:ac1b7278463139ed64000a4cf48363bb5fb8c7af7a528716b2657c1808756188",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:51Z",
       "updated_at": "2026-10-04T13:04:52Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_openbsd_armv6.tar.gz"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 9701413,
       "digest": "sha256:d34e780a067a5f4df350976ed855613b25b5cce66d7af660646210626d98fc53",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:52Z",
       "updated_at": "2026-10-04T13:04:52Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_openbsd_armv7.tar.gz"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 9629521,
       "digest": "sha256:cf0d65a4b69e589fe9411c3be1d70d755d2010810f3d06c050c3d6398839c93f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T13:04:48Z",
       "updated_at": "2026-10-04T13:04:49Z",
       "browser_download_url": "https://github.com/mrusme/reader/releases/download/v0.6.1/reader_0.6.1_openbsd_riscv64.tar.gz"

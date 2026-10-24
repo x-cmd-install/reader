@@ -1,3 +1,45 @@
+- repo: aur
+  srcname: reader
+  binname: reader
+  visiblename: reader
+  version: 0.4.5
+  origversion: 0.4.5-1
+  status: outdated
+  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
+  maintainers:
+    - adamthiede@aur
+  licenses:
+    - GPL-3.0
+- repo: aur
+  srcname: reader-bin
+  binname: reader-bin
+  visiblename: reader-bin
+  version: 0.6.1
+  origversion: 0.6.1-0
+  status: newest
+  summary: A minimal command line reader offering better readability of web pages on the CLI.
+  maintainers:
+    - themariusus@aur
+  licenses:
+    - GPL-3.0
+- repo: homebrew_casks
+  srcname: reader
+  visiblename: Readwise Reader
+  version: 0.1.3354
+  origversion: null
+  status: outdated
+  summary: Save articles to read, highlight key content, and organise notes for review
+- repo: nix_stable_24_11
+  srcname: reader
+  visiblename: reader
+  version: 0.4.5
+  origversion: null
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - theo1.bori@epitech.eu
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_19
   subrepo: community
   srcname: reader
@@ -63,18 +105,6 @@
     - me@adamthiede.com
   licenses:
     - GPL-3.0-only
-- repo: pkgsrc_current
-  srcname: www/reader
-  binname: reader
-  visiblename: www/reader
-  version: 0.5.0
-  origversion: 0.5.0nb19
-  status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - www
 - repo: alpine_3_24
   subrepo: community
   srcname: reader
@@ -101,48 +131,6 @@
     - me@adamthiede.com
   licenses:
     - GPL-3.0-only
-- repo: aur
-  srcname: reader
-  binname: reader
-  visiblename: reader
-  version: 0.4.5
-  origversion: 0.4.5-1
-  status: outdated
-  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
-  maintainers:
-    - adamthiede@aur
-  licenses:
-    - GPL-3.0
-- repo: aur
-  srcname: reader-bin
-  binname: reader-bin
-  visiblename: reader-bin
-  version: 0.6.1
-  origversion: 0.6.1-0
-  status: newest
-  summary: A minimal command line reader offering better readability of web pages on the CLI.
-  maintainers:
-    - themariusus@aur
-  licenses:
-    - GPL-3.0
-- repo: homebrew_casks
-  srcname: reader
-  visiblename: Readwise Reader
-  version: 0.1.3345
-  origversion: null
-  status: outdated
-  summary: Save articles to read, highlight key content, and organise notes for review
-- repo: nix_stable_24_11
-  srcname: reader
-  visiblename: reader
-  version: 0.4.5
-  origversion: null
-  status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - theo1.bori@epitech.eu
-  licenses:
-    - GPL-3.0-or-later
 - repo: nix_stable_25_05
   srcname: reader
   visiblename: reader
@@ -217,6 +205,18 @@
   visiblename: www/reader
   version: 0.5.0
   origversion: 0.5.0nb17
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - www
+- repo: pkgsrc_current
+  srcname: www/reader
+  binname: reader
+  visiblename: www/reader
+  version: 0.5.0
+  origversion: 0.5.0nb19
   status: outdated
   summary: Lightweight tool offering better readability of web pages on the CLI
   maintainers:

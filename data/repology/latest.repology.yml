@@ -1,15 +1,29 @@
-- repo: pkgsrc_2026_2
-  srcname: www/reader
+- repo: alpine_3_22
+  subrepo: community
+  srcname: reader
   binname: reader
-  visiblename: www/reader
+  visiblename: reader
   version: 0.5.0
-  origversion: 0.5.0nb13
+  origversion: 0.5.0-r5
   status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
+  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
   maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - www
+    - me@adamthiede.com
+  licenses:
+    - GPL-3.0-only
+- repo: alpine_3_23
+  subrepo: community
+  srcname: reader
+  binname: reader
+  visiblename: reader
+  version: 0.5.0
+  origversion: 0.5.0-r10
+  status: outdated
+  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
+  maintainers:
+    - me@adamthiede.com
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_3_19
   subrepo: community
   srcname: reader
@@ -43,32 +57,6 @@
   visiblename: reader
   version: 0.4.5
   origversion: 0.4.5-r5
-  status: outdated
-  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
-  maintainers:
-    - me@adamthiede.com
-  licenses:
-    - GPL-3.0-only
-- repo: alpine_3_22
-  subrepo: community
-  srcname: reader
-  binname: reader
-  visiblename: reader
-  version: 0.5.0
-  origversion: 0.5.0-r5
-  status: outdated
-  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
-  maintainers:
-    - me@adamthiede.com
-  licenses:
-    - GPL-3.0-only
-- repo: alpine_3_23
-  subrepo: community
-  srcname: reader
-  binname: reader
-  visiblename: reader
-  version: 0.5.0
-  origversion: 0.5.0-r10
   status: outdated
   summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
   maintainers:
@@ -128,7 +116,7 @@
 - repo: homebrew_casks
   srcname: reader
   visiblename: Readwise Reader
-  version: 0.1.3365
+  version: 0.1.3374
   origversion: null
   status: outdated
   summary: Save articles to read, highlight key content, and organise notes for review
@@ -197,6 +185,18 @@
   summary: lightweight tool offering better readability of web pages
   maintainers:
     - ports@openbsd.org
+  categories:
+    - www
+- repo: pkgsrc_2026_2
+  srcname: www/reader
+  binname: reader
+  visiblename: www/reader
+  version: 0.5.0
+  origversion: 0.5.0nb13
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - pkgsrc-users@netbsd.org
   categories:
     - www
 - repo: pkgsrc_2026_3

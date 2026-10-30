@@ -1,3 +1,27 @@
+- repo: pkgsrc_2026_3
+  srcname: www/reader
+  binname: reader
+  visiblename: www/reader
+  version: 0.5.0
+  origversion: 0.5.0nb18
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - www
+- repo: pkgsrc_current
+  srcname: www/reader
+  binname: reader
+  visiblename: www/reader
+  version: 0.5.0
+  origversion: 0.5.0nb19
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - www
 - repo: alpine_3_19
   subrepo: community
   srcname: reader
@@ -50,6 +74,19 @@
     - me@adamthiede.com
   licenses:
     - GPL-3.0-only
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: reader
+  binname: reader
+  visiblename: reader
+  version: 0.6.0
+  origversion: 0.6.0_2
+  status: outdated
+  summary: Lightweight CLI tool offering better readability of web pages
+  maintainers:
+    - git@yushi.one
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_23
   subrepo: community
   srcname: reader
@@ -82,7 +119,7 @@
   binname: reader
   visiblename: reader
   version: 0.6.0
-  origversion: 0.6.0-r0
+  origversion: 0.6.0-r1
   status: outdated
   summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
   maintainers:
@@ -116,7 +153,7 @@
 - repo: homebrew_casks
   srcname: reader
   visiblename: Readwise Reader
-  version: 0.1.3395
+  version: 0.1.3399
   origversion: null
   status: outdated
   summary: Save articles to read, highlight key content, and organise notes for review
@@ -199,40 +236,3 @@
     - pkgsrc-users@netbsd.org
   categories:
     - www
-- repo: pkgsrc_2026_3
-  srcname: www/reader
-  binname: reader
-  visiblename: www/reader
-  version: 0.5.0
-  origversion: 0.5.0nb18
-  status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - www
-- repo: pkgsrc_current
-  srcname: www/reader
-  binname: reader
-  visiblename: www/reader
-  version: 0.5.0
-  origversion: 0.5.0nb19
-  status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - www
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: reader
-  binname: reader
-  visiblename: reader
-  version: 0.6.0
-  origversion: 0.6.0_2
-  status: outdated
-  summary: Lightweight CLI tool offering better readability of web pages
-  maintainers:
-    - git@yushi.one
-  licenses:
-    - GPL-3.0-or-later

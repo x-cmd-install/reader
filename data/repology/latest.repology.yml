@@ -1,3 +1,25 @@
+- repo: nix_stable_25_05
+  srcname: reader
+  visiblename: reader
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - theo1.bori@epitech.eu
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: reader
+  visiblename: reader
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Lightweight tool offering better readability of web pages on the CLI
+  maintainers:
+    - theobori@disroot.org
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_3_19
   subrepo: community
   srcname: reader
@@ -116,7 +138,7 @@
 - repo: homebrew_casks
   srcname: reader
   visiblename: Readwise Reader
-  version: 0.1.3460
+  version: 0.1.3461
   origversion: null
   status: outdated
   summary: Save articles to read, highlight key content, and organise notes for review
@@ -129,28 +151,6 @@
   summary: Lightweight tool offering better readability of web pages on the CLI
   maintainers:
     - theo1.bori@epitech.eu
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_05
-  srcname: reader
-  visiblename: reader
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - theo1.bori@epitech.eu
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_11
-  srcname: reader
-  visiblename: reader
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: Lightweight tool offering better readability of web pages on the CLI
-  maintainers:
-    - theobori@disroot.org
   licenses:
     - GPL-3.0-or-later
 - repo: nix_stable_26_05

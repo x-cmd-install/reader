@@ -1,15 +1,15 @@
-- repo: openbsd
-  srcname: www/reader
-  binname: reader
-  visiblename: www/reader
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: lightweight tool offering better readability of web pages
+- repo: aur
+  srcname: reader-bin
+  binname: reader-bin
+  visiblename: reader-bin
+  version: 0.6.1
+  origversion: 0.6.1-0
+  status: newest
+  summary: A minimal command line reader offering better readability of web pages on the CLI.
   maintainers:
-    - ports@openbsd.org
-  categories:
-    - www
+    - themariusus@aur
+  licenses:
+    - GPL-3.0
 - repo: alpine_3_19
   subrepo: community
   srcname: reader
@@ -113,22 +113,10 @@
     - adamthiede@aur
   licenses:
     - GPL-3.0
-- repo: aur
-  srcname: reader-bin
-  binname: reader-bin
-  visiblename: reader-bin
-  version: 0.6.1
-  origversion: 0.6.1-0
-  status: newest
-  summary: A minimal command line reader offering better readability of web pages on the CLI.
-  maintainers:
-    - themariusus@aur
-  licenses:
-    - GPL-3.0
 - repo: homebrew_casks
   srcname: reader
   visiblename: Readwise Reader
-  version: 0.1.3496
+  version: 0.1.3512
   origversion: null
   status: outdated
   summary: Save articles to read, highlight key content, and organise notes for review
@@ -187,6 +175,18 @@
     - theobori@disroot.org
   licenses:
     - GPL-3.0-or-later
+- repo: openbsd
+  srcname: www/reader
+  binname: reader
+  visiblename: www/reader
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: lightweight tool offering better readability of web pages
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - www
 - repo: pkgsrc_2026_2
   srcname: www/reader
   binname: reader

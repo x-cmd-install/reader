@@ -1,29 +1,10 @@
-- repo: alpine_3_23
-  subrepo: community
+- repo: homebrew_casks
   srcname: reader
-  binname: reader
-  visiblename: reader
-  version: 0.5.0
-  origversion: 0.5.0-r10
+  visiblename: Readwise Reader
+  version: 0.1.3607
+  origversion: null
   status: outdated
-  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
-  maintainers:
-    - me@adamthiede.com
-  licenses:
-    - GPL-3.0-only
-- repo: alpine_3_24
-  subrepo: community
-  srcname: reader
-  binname: reader
-  visiblename: reader
-  version: 0.5.0
-  origversion: 0.5.0-r12
-  status: outdated
-  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
-  maintainers:
-    - me@adamthiede.com
-  licenses:
-    - GPL-3.0-only
+  summary: Save articles to read, highlight key content, and organise notes for review
 - repo: alpine_3_19
   subrepo: community
   srcname: reader
@@ -76,6 +57,32 @@
     - me@adamthiede.com
   licenses:
     - GPL-3.0-only
+- repo: alpine_3_23
+  subrepo: community
+  srcname: reader
+  binname: reader
+  visiblename: reader
+  version: 0.5.0
+  origversion: 0.5.0-r10
+  status: outdated
+  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
+  maintainers:
+    - me@adamthiede.com
+  licenses:
+    - GPL-3.0-only
+- repo: alpine_3_24
+  subrepo: community
+  srcname: reader
+  binname: reader
+  visiblename: reader
+  version: 0.5.0
+  origversion: 0.5.0-r12
+  status: outdated
+  summary: reader parses a web page for its actual content and displays it in nicely highlighted text on the command line.
+  maintainers:
+    - me@adamthiede.com
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_edge
   subrepo: community
   srcname: reader
@@ -113,13 +120,6 @@
     - themariusus@aur
   licenses:
     - GPL-3.0
-- repo: homebrew_casks
-  srcname: reader
-  visiblename: Readwise Reader
-  version: 0.1.3572
-  origversion: null
-  status: outdated
-  summary: Save articles to read, highlight key content, and organise notes for review
 - repo: nix_stable_24_11
   srcname: reader
   visiblename: reader
